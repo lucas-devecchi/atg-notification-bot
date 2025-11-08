@@ -3,7 +3,9 @@
 Este bot en Node.js + TypeScript revisa automáticamente la página de [DevilNovels - Contra los Dioses](https://devilnovels.com/contra-los-dioses/) cada cierto tiempo y detecta si se publicó un nuevo capítulo.  
 Cuando aparece un capítulo nuevo, muestra una **alerta de Windows** y guarda el último capítulo detectado en un archivo local (`ultimoCapitulo.txt`).
 
----
+<p align="center">
+  <img width="500" height="280" src="https://github.com/user-attachments/assets/998aaa87-f380-4724-927b-49ba4b11f660" alt="image" />
+</p>
 
 ## 🕒 Funcionamiento
 
